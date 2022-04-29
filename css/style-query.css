@@ -1,0 +1,36 @@
+/* media query  */
+
+@media (max-width: 599px) {
+  .navbar__menu ul {
+    text-align: center;
+  }
+
+  .navbar__menu li {
+    padding: 3px;
+    font-size: 15px;
+  }
+
+  h1 {
+    margin: 4em 1rem 2em 1em;
+  }
+
+  section {
+    margin: 4em 1rem;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 900px) {
+  .navbar__menu li {
+    padding: 5px;
+    font-size: 15px;
+  }
+
+  h1 {
+    font-size: 5em;
+    margin: 3em 1rem 2em 0.5em;
+  }
+
+  section {
+    margin: 3em 1rem;
+  }
+}
