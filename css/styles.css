@@ -10,9 +10,10 @@
 
 /* ---- Base Rules ---- */
 
-html {
+/* html {
   scroll-behavior: smooth;
-}
+  => implement in JS
+} */
 
 body {
   background: rgb(44, 0, 113);
@@ -71,13 +72,17 @@ section {
 .navbar__menu ul {
   padding-left: 0;
   margin: 0;
-  text-align: right;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 20px;
+  font-size: 20px;
 }
 
 .navbar__menu li {
   display: inline-block;
   color: rgba(101, 9, 121, 1);
-
   cursor: pointer;
 }
 
