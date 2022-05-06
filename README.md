@@ -22,9 +22,11 @@ What I add functionally on JavaScript are:
 - hide/show navigation while scrolling
 - implement styles
 
-### Copyright
+## Copyright
 
 All rights are reserved by Yui Iida.
+
+
 
 note: 'hightlights section in viewport upon scrolling' is helped by a mentor on Knowledge
 https://knowledge.udacity.com/questions/834057
