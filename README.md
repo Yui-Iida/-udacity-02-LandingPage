@@ -1,3 +1,5 @@
+![スクリーンショット 2022-05-06 18 02 02](https://user-images.githubusercontent.com/92433326/167171310-6c0fb10b-d1ae-48e0-a4d3-728289efa5ed.jpg)
+
 # Landing Page Project
 
 "Landing Page Project" is the second project of front-end developer nanodegree program on udacity.
